@@ -8,3 +8,4 @@
 - git commit -m "<mensagem-do-meu-commit>": rotula o pacote de alterações
 - git push origin main: sobe os arquivos ao Github
 - git pull : baixa os arquivos da versão que está na nuvem
+- git config --global user.name martinpereztovar: configuração do usuário
